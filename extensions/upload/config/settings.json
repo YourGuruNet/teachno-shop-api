@@ -1,2 +1,9 @@
-
+{
+      "provider": "cloudinary",
+      "providerOptions": {
+         "cloud_name": "www-yourgurunet-com",
+        "api_key": "371532349812521",
+        "api_secret": "50_dBR77KybP31u1aiB9ASYaF5g"
+       }
+ }
  
