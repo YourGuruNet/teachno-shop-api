@@ -37,11 +37,11 @@
       "plugin": "upload",
       "required": false
     },
-    "freeShipping": {
-      "type": "boolean"
-    },
     "specification": {
       "type": "json"
+    },
+    "Shipping": {
+      "type": "decimal"
     }
   }
 }
