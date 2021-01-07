@@ -86,7 +86,7 @@ public/uploads/*
 ############################
 # Node.js
 ############################
-
+package-lock.json
 lib-cov
 lcov.info
 pids
